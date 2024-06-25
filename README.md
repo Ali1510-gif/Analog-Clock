@@ -3,7 +3,7 @@ https://github.com/Ali1510-gif/Analog-Clock/assets/127011329/ad654138-e026-4360-
 # Analog Clock
 This is a simple frontend project in which basic html,css and javascript are used.
 
-## Follow of Project
+## Flow of Project
 
 #### 1.Create files
 create files of html,css and js respectively.
